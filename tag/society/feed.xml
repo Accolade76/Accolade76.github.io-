@@ -2,10 +2,10 @@
 
 <feed xmlns="http://www.w3.org/2005/Atom" >
   <generator uri="https://jekyllrb.com/" version="3.7.4">Jekyll</generator>
-  <link href="/author/saket/feed.xml" rel="self" type="application/atom+xml" />
+  <link href="/tag/society/feed.xml" rel="self" type="application/atom+xml" />
   <link href="/" rel="alternate" type="text/html" />
   <updated>2020-04-18T14:44:40+02:00</updated>
-  <id>/author/saket/feed.xml</id>
+  <id>/tag/society/feed.xml</id>
 
   
   
@@ -69,48 +69,6 @@
 
       
         <summary type="html">As the COVID-19 pandemic has progressed and people around the world have started to understand the dangers and the virulence of the SARS-CoV-2 virus, social distancing has been one of the mitigating strategies imposed everywhere. This is a highly necessary step in preventing the spread of the virus and flattening the curve. However, as some countries appear to be getting the spread of the virus under control there are already sounds about “opening up” certain countries.</summary>
-      
-
-      
-      
-    </entry>
-  
-    <entry>
-      <title type="html">Welcome to Operative Word</title>
-      <link href="/welcome" rel="alternate" type="text/html" title="Welcome to Operative Word" />
-      <published>2019-09-18T18:00:00+02:00</published>
-      <updated>2019-09-18T18:00:00+02:00</updated>
-      <id>/welcome</id>
-      <content type="html" xml:base="/welcome">&lt;p&gt;Welcome to to my site. I’m glad you found your way here.&lt;/p&gt;
-
-&lt;p&gt;Primarily, this will be an unapologetic resource for the things I’m interested in personally, professionally and generally.&lt;/p&gt;
-
-&lt;p&gt;Topics can range from IT development and transformation topics like software craftmanship, re-factoring and DevOps to the practice of martial arts or tips and tricks for film-making.&lt;/p&gt;
-
-&lt;p&gt;If you have a specific area of interest, you can filter my posts based on the tags and ignore all the things which are irrelevant to you.&lt;/p&gt;
-
-&lt;p&gt;I hope you encounter something useful to you here!&lt;/p&gt;</content>
-
-      
-      
-      
-      
-      
-
-      <author>
-          <name>Saket Kulkarni</name>
-        
-        
-      </author>
-
-      
-
-      
-        <category term="Getting started" />
-      
-
-      
-        <summary type="html">Welcome to to my site. I’m glad you found your way here.</summary>
       
 
       

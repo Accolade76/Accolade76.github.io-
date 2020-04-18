@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"name": "operative-word-master",
+			"path": "."
+		},
+		{
+			"name": "operative-word-blog",
+			"path": "../operative-word-blog"
+		}
+	]
+}
